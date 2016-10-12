@@ -9,3 +9,5 @@ def mean(a)
 	a2=a.size			#devolve o tamanho do array
 	return float(a1)/float(a2)
 end
+
+#cenas e mais cenas
